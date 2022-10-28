@@ -1,0 +1,1 @@
+Um jogo básico de par ou impar, desenvolvido em c++.
